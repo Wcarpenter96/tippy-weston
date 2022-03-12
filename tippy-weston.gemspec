@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "A gem for generating tip values based on a number of inputs."
 #   spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage = "https://github.com/Wcarpenter96/tippy-weston"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
